@@ -19,5 +19,10 @@ So in this Task I have Created All The Apis For Hotel Management Task. Like=
 
 For THis I Have Used Java 8,Eclipse,PostgreSQL,Spring Boot,Spring Data,Lombook,Jackson
 
+DbScript Link
+https://drive.google.com/open?id=1rx4zJn-lY_z6NsXqJA5B0LlUuuaEwljs
+Api Details Link
+https://drive.google.com/open?id=1z8pGtJ0BKX7QdrW7EPGiOWFGWe3C5-UB
+
 
 Thanks
