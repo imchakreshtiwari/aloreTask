@@ -24,5 +24,8 @@ https://drive.google.com/open?id=1rx4zJn-lY_z6NsXqJA5B0LlUuuaEwljs
 Api Details Link
 https://drive.google.com/open?id=1z8pGtJ0BKX7QdrW7EPGiOWFGWe3C5-UB
 
+for running the application we need maven and jdk1.8
+coomand to run- mvn spring-boot:run
+
 
 Thanks
