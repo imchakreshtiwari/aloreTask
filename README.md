@@ -1,4 +1,4 @@
-# aloreTask
+# Hotel Management Api's
 So in this Task I have Created All The Apis For Hotel Management Task. Like=
 
 
